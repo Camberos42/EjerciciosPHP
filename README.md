@@ -1,2 +1,2 @@
 # EjerciciosPHP
-Ejercicios variados acerca de PHP.
+Ejercicios variados en PHP.
